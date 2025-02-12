@@ -32,4 +32,3 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
  6. Open a pull request
  7. In case of delays in your changes getting accepted/rejected (give it 1 business day), reach out to Smart Stake support at t.me/SmartStake
  8. Check your relayer profile on relayers.smartstake.io and make more changes as needed.
- 
